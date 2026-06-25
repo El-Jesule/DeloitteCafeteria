@@ -1,8 +1,6 @@
 CAFETERÍA OPENAI
 
 Bebidas:
-- Café
-- Té
 - Café solo
 - Té verde
 
